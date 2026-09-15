@@ -2,6 +2,14 @@
 
 **AI-Powered Sentry Turret**
 
+Video Link https://youtu.be/wq3cXFSN2co
+
+
+<img src="Media/FINAL.PNG" alt="Zine Image" width="600">
+
+
+
+
 ### Highlights
 
 *   **AI Object Tracking** powered by a Raspberry Pi 5
@@ -14,9 +22,6 @@
 ### Why I made it!!!
 
 After working on [https://github.com/coolerzanu/FPV-Drone-5-Analog], I wanted to dive deeper into a far more challenge application of robotics using computer vision and motion control. I decided to challenge myself by building a fully autonomous robotic sentry turret from scratch. This project served as the perfect intersection of mechanical engineering (the development of the chassis, and custom CAD components), electronics (power delivery and motor drivers), and software (AI object detection and driver control with embedded systems and mico-computers). Plus, testing it out with reusable rubber paintballs has been incredibly fun!
-
-### Videos
-
 
 
 ### Basic Overview - Parts
@@ -41,12 +46,75 @@ To build a robust and responsive turret capable of swinging a full-sized paintba
 
 ---
 
+### CAD
+
+<img src="Media/CAD.PNG" alt="Image" height="600">
+<img src="Media/CADCLose" alt="Image" height="600">
+
+Gears
+
+<img src="Media/Gears.PNG" alt="Image" height="600">
+
+
+---
+
 ### Basic Progression
 
-1.  **Mechanical Assembly:** Assembled all structural components for the frame with Aluminum extrusions and printed brackets. Attached Large X-axsis Herrigbore gear to Lazy Susan before mounting it on the chassis. Used heat-pressed brass inserts to connect any plastic to metal. Secured Y-axsis gantry onto the chassis and prepared to mount device.
-2.  **Mounting the Hardware:** Secured the paintball device to the Y-axis gantry with custom 3d printed parts. Attached the Nema 23 stepper motors to their respective axes. 
-3.  **Electronics & Wiring:**  Wired the Meanwell 24V power supply to AC wall outlet and the DM542T stepper drivers. Arduino Uno was powered with external battery and wired to motor drivers. 
-4.  **Integration:** TBD
+<img src="Media/Alum.JPG" alt="Image" height="600">
+
+**Printing**
+
+Printed all needed materials
+
+<img src="Media/printer.JPG" alt="Image" height="600">
+
+
+ **Mechanical Assembly:** Assembled all structural components for the frame with Aluminum extrusions and printed brackets.
+
+<img src="Media/Chassis.JPG" alt="Image" height="600">
+
+
+
+Attached Large X-axsis Herrigbore gear to Lazy Susan before mounting it on the chassis. 
+(Used heat-pressed brass inserts to connect any plastic to metal.)
+
+<img src="Media/BearingGear.JPG" alt="Image" height="600">
+
+<img src="Media/Mountedgear.JPG" alt="Image" height="600">
+
+
+Secured Y-axsis gantry onto the chassis and prepared to mount device.
+
+
+
+
+5.  **Mounting the Hardware:**
+
+Secured the paintball device to the Y-axis gantry with custom 3d printed parts. Attached the Nema 23 stepper motors to their respective axes.
+
+<img src="Media/TurretMount.JPG" alt="Image" height="600">
+
+
+
+7.  **Electronics & Wiring:**
+
+Wired the Meanwell 24V power supply to AC wall outlet and the DM542T stepper drivers.
+
+<img src="Media/MultiMeter.JPG" alt="Image" height="600">
+
+<img src="Media/PowerWires.JPG" alt="Image" height="600">
+
+
+Wired Motor Driver to Nema23 motors
+
+<img src="Media/MotorDriver.JPG" alt="Image" height="600">
+
+
+Arduino Uno was powered with external battery and wired to motor drivers. 
+<img src="Media/Arduino.JPG" alt="Image" width="600">
+
+
+7.  **Integration:** TBD
 
 
 ---
