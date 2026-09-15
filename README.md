@@ -8,7 +8,7 @@ Video Link https://youtu.be/wq3cXFSN2co
 <img src="Media/FINAL.PNG" alt="Zine Image" width="600">
 
 
-
+Still working on this project, took a break to attend the fallout hackathon in Shenzhen, China and have left home for Columbia University. Will resume building when I get back.
 
 ### Highlights
 
